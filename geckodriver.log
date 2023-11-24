@@ -1,0 +1,696 @@
+1700562999184	geckodriver	INFO	Listening on 127.0.0.1:52620
+1700562999464	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileQfrRru"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 11:36:39.714 firefox-bin[18126:424592] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700562999797	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700562999960	Marionette	INFO	Listening on port 52628
+WebDriver BiDi listening on ws://127.0.0.1:52621
+Read port: 52628
+1700563000053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52621/devtools/browser/260481f2-f99a-4ed4-b544-031af54eb1af
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3741: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz, line 967: Script terminated by timeout at:
+e@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:967:980
+inform/<@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:971:1234
+inform@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:971:1207
+K@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:964:4366
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:964:4951
+d@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:965:158
+
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+1700563030898	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700563042038	geckodriver	INFO	Listening on 127.0.0.1:52665
+1700563042562	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileymIDRs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 11:37:22.721 firefox-bin[18146:425721] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700563042805	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700563042958	Marionette	INFO	Listening on port 52673
+WebDriver BiDi listening on ws://127.0.0.1:52666
+Read port: 52673
+1700563043035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52666/devtools/browser/47ef8db1-2392-4fd5-bcdf-8d14d2f396f1
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700563067787	Marionette	INFO	Stopped listening on port 52673
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz, line 1142: Script terminated by timeout at:
+a/c.intervalId<@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:1142:174
+
+1700563090759	geckodriver	INFO	Listening on 127.0.0.1:52713
+1700563091280	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofile14MTkA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 11:38:11.446 firefox-bin[18164:427050] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700563091526	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700563091677	Marionette	INFO	Listening on port 52721
+WebDriver BiDi listening on ws://127.0.0.1:52714
+Read port: 52721
+1700563091760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52714/devtools/browser/431e80ef-6e0a-4139-b40b-ce238bbfe5da
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700563115949	Marionette	INFO	Stopped listening on port 52721
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz, line 1142: Script terminated by timeout at:
+a/c.intervalId<@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:1142:174
+
+1700564981719	Marionette	INFO	Stopped listening on port 52628
+1700597267694	geckodriver	INFO	Listening on 127.0.0.1:55894
+1700597268199	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileN5uxoj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:07:48.458 firefox-bin[21098:597657] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700597268611	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700597268725	Marionette	INFO	Listening on port 55900
+WebDriver BiDi listening on ws://127.0.0.1:55895
+Read port: 55900
+1700597268925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55895/devtools/browser/831c77fa-fd3c-4cbc-86ad-91fed6564373
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3741: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz, line 964: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:964:4311
+C@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:964:1627
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:964:4947
+d@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yp/l/en_US/sx4D9oSDLj9.js?_nc_x=Ij3Wp8lg5Kz:965:158
+
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+1700597299729	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700597366839	geckodriver	INFO	Listening on 127.0.0.1:55943
+1700597367356	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilevDLfa7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:09:27.538 firefox-bin[21116:599579] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700597367691	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700597367792	Marionette	INFO	Listening on port 55949
+Read port: 55949
+WebDriver BiDi listening on ws://127.0.0.1:55944
+1700597367959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55944/devtools/browser/f0fdc835-a48f-4f2d-ac96-cd36e29ac1a5
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1700597387477	geckodriver	INFO	Listening on 127.0.0.1:55985
+1700597387988	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileYbDoOe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:09:48.187 firefox-bin[21140:600429] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700597388320	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700597388568	Marionette	INFO	Listening on port 55991
+WebDriver BiDi listening on ws://127.0.0.1:55986
+Read port: 55991
+1700597388699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55986/devtools/browser/ae7ef6cf-7cc9-48e2-a79b-4d9f057d1f8d
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700597417336	Marionette	INFO	Stopped listening on port 55991
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz, line 224: Script terminated by timeout at:
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:3444
+setTimeout handler*Y@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:3431
+N@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:2577
+U@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:3041
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700597428773	geckodriver	INFO	Listening on 127.0.0.1:56030
+1700597429290	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileSwCVqd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:10:29.497 firefox-bin[21156:601585] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700597429635	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700597429736	Marionette	INFO	Listening on port 56036
+Read port: 56036
+WebDriver BiDi listening on ws://127.0.0.1:56031
+1700597429906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56031/devtools/browser/f55f4521-2b9d-4d62-9cea-9af959d47bbf
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700597456171	Marionette	INFO	Stopped listening on port 56036
+1700598927838	geckodriver	INFO	Listening on 127.0.0.1:56421
+1700598928350	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilecFsZRQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:35:28.550 firefox-bin[21332:619918] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700598928685	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700598928800	Marionette	INFO	Listening on port 56427
+Read port: 56427
+WebDriver BiDi listening on ws://127.0.0.1:56422
+1700598928969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56422/devtools/browser/b8c6b351-9f72-48d8-a187-ae6a2a632176
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700598936322	Marionette	INFO	Stopped listening on port 56427
+Marionette threw an error: NoBrowsingContext: No BrowsingContext found
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:343:23
+
+console.error: "Marionette threw an error: NoBrowsingContext: No BrowsingContext found\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:343:23\n"
+1700598938350	Marionette	INFO	Stopped listening on port 55900
+1700598951183	geckodriver	INFO	Listening on 127.0.0.1:56463
+1700598951695	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileZaRino"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:35:51.883 firefox-bin[21359:620784] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700598952006	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700598952115	Marionette	INFO	Listening on port 56469
+Read port: 56469
+WebDriver BiDi listening on ws://127.0.0.1:56464
+1700598952276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56464/devtools/browser/13a4a244-ead2-41ec-b4b4-7f46e2f043b2
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz, line 964: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:964:4311
+C@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:964:1627
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:964:4947
+d@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:965:158
+
+1700598955448	Marionette	INFO	Stopped listening on port 56469
+1700598995241	geckodriver	INFO	Listening on 127.0.0.1:56510
+1700598995756	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileGSK3GX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:36:35.947 firefox-bin[21378:621653] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700598996067	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700598996167	Marionette	INFO	Listening on port 56516
+Read port: 56516
+WebDriver BiDi listening on ws://127.0.0.1:56511
+1700598996311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56511/devtools/browser/22c8717e-bf89-40dd-bdab-edaf5e01de7f
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz, line 964: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:964:4311
+C@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:964:1627
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:964:4947
+d@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:965:158
+
+1700598999341	Marionette	INFO	Stopped listening on port 56516
+1700599043544	geckodriver	INFO	Listening on 127.0.0.1:56555
+1700599044056	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileVQ5Uh2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:37:24.256 firefox-bin[21398:622555] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700599044391	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700599044630	Marionette	INFO	Listening on port 56561
+WebDriver BiDi listening on ws://127.0.0.1:56556
+Read port: 56561
+1700599044758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56556/devtools/browser/5ebb2fc2-44bf-4c67-865c-75dd74f5e345
+1700599046412	Marionette	INFO	Stopped listening on port 56561
+1700599075780	geckodriver	INFO	Listening on 127.0.0.1:56578
+1700599076291	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilelIWuFr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:37:56.478 firefox-bin[21417:623300] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700599076600	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700599076712	Marionette	INFO	Listening on port 56584
+Read port: 56584
+WebDriver BiDi listening on ws://127.0.0.1:56579
+1700599076869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56579/devtools/browser/3711115d-8784-47ea-9abe-b17dcf69543c
+1700599078900	Marionette	INFO	Stopped listening on port 56584
+1700599305058	geckodriver	INFO	Listening on 127.0.0.1:56620
+1700599305580	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileOMp8Mq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:41:45.773 firefox-bin[21454:625933] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700599305897	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700599306010	Marionette	INFO	Listening on port 56626
+Read port: 56626
+WebDriver BiDi listening on ws://127.0.0.1:56621
+1700599306165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56621/devtools/browser/b7be2721-4e24-42c0-a079-85fa12e314cf
+1700599307970	Marionette	INFO	Stopped listening on port 56626
+1700599353846	geckodriver	INFO	Listening on 127.0.0.1:56645
+1700599354366	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileZ7JsfN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:42:34.555 firefox-bin[21480:626839] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700599354677	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700599354788	Marionette	INFO	Listening on port 56651
+Read port: 56651
+WebDriver BiDi listening on ws://127.0.0.1:56646
+1700599354955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56646/devtools/browser/a575fa5f-1e0d-4708-9d7d-830fc696dfc4
+1700599356740	Marionette	INFO	Stopped listening on port 56651
+1700599577340	geckodriver	INFO	Listening on 127.0.0.1:56732
+1700599577859	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofiletNS3vF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:46:18.046 firefox-bin[21556:630417] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700599578163	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700599578268	Marionette	INFO	Listening on port 56738
+Read port: 56738
+WebDriver BiDi listening on ws://127.0.0.1:56733
+1700599578408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56733/devtools/browser/ea38ab9e-6c52-4e53-9ef0-310ccd7ee2f5
+1700599580179	Marionette	INFO	Stopped listening on port 56738
+1700599607767	geckodriver	INFO	Listening on 127.0.0.1:56754
+1700599608285	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilebt0S0e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:46:48.470 firefox-bin[21573:631127] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700599608597	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700599608704	Marionette	INFO	Listening on port 56760
+Read port: 56760
+WebDriver BiDi listening on ws://127.0.0.1:56755
+1700599608866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56755/devtools/browser/87edea85-372d-4227-b7f0-c29035245aee
+1700599610612	Marionette	INFO	Stopped listening on port 56760
+1700599654162	geckodriver	INFO	Listening on 127.0.0.1:56777
+1700599654677	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilefwr7iW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:47:34.869 firefox-bin[21592:631937] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700599655000	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700599655105	Marionette	INFO	Listening on port 56783
+Read port: 56783
+WebDriver BiDi listening on ws://127.0.0.1:56778
+1700599655264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56778/devtools/browser/8ac4e082-5942-4005-b51b-3025bef0aa74
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz, line 964: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:964:4311
+C@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:964:1627
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:964:4947
+d@https://static.cdninstagram.com/rsrc.php/v3i1tA4/yn/l/en_US/FAuajnKAcXw.js?_nc_x=Ij3Wp8lg5Kz:965:158
+
+1700599658381	Marionette	INFO	Stopped listening on port 56783
+1700599713320	geckodriver	INFO	Listening on 127.0.0.1:56825
+1700599713836	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofiley5gDQC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:48:34.028 firefox-bin[21618:633232] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700599714156	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700599714268	Marionette	INFO	Listening on port 56831
+Read port: 56831
+WebDriver BiDi listening on ws://127.0.0.1:56826
+1700599714427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56826/devtools/browser/ae4920ac-ceb8-4b1f-af01-2c0f858505bf
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700599740001	Marionette	INFO	Stopped listening on port 56831
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz, line 224: Script terminated by timeout at:
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:3444
+
+1700599760472	geckodriver	INFO	Listening on 127.0.0.1:56869
+1700599760982	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileG2Dyxf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:49:21.181 firefox-bin[21644:634824] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700599761313	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700599761427	Marionette	INFO	Listening on port 56875
+Read port: 56875
+WebDriver BiDi listening on ws://127.0.0.1:56870
+1700599761589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56870/devtools/browser/e2a5c288-b564-4279-a61a-af48ad4c7d0f
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700599785979	Marionette	INFO	Stopped listening on port 56875
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz, line 224: Script terminated by timeout at:
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:3444
+
+1700600170526	geckodriver	INFO	Listening on 127.0.0.1:56950
+1700600171046	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilendELZT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:56:11.251 firefox-bin[21721:640619] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700600171391	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700600171503	Marionette	INFO	Listening on port 56956
+Read port: 56956
+WebDriver BiDi listening on ws://127.0.0.1:56951
+1700600171658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:56951/devtools/browser/acdde84b-17da-4510-bcfd-f3473e5c5755
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700600197414	Marionette	INFO	Stopped listening on port 56956
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz, line 224: Script terminated by timeout at:
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:3444
+
+1700600259312	geckodriver	INFO	Listening on 127.0.0.1:57002
+1700600259837	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileCC92oI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-21 21:57:40.030 firefox-bin[21740:642299] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700600260149	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700600260251	Marionette	INFO	Listening on port 57008
+Read port: 57008
+WebDriver BiDi listening on ws://127.0.0.1:57003
+1700600260388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:57003/devtools/browser/1b612648-18ce-45df-9388-7ad45504485d
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700600284916	Marionette	INFO	Stopped listening on port 57008
+1700679234359	geckodriver	INFO	Listening on 127.0.0.1:61275
+1700679234856	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileWZs1PN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 19:53:55.128 firefox-bin[30657:905991] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700679235281	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700679235378	Marionette	INFO	Listening on port 61281
+Read port: 61281
+WebDriver BiDi listening on ws://127.0.0.1:61276
+1700679235412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61276/devtools/browser/934ca804-ebea-461c-bdea-f95a7b5013ca
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700679260481	Marionette	INFO	Stopped listening on port 61281
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz, line 224: Script terminated by timeout at:
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:3444
+
+1700679383874	geckodriver	INFO	Listening on 127.0.0.1:61346
+1700679384396	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileFmO2N3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 19:56:24.600 firefox-bin[30690:908895] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700679384748	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700679384844	Marionette	INFO	Listening on port 61352
+WebDriver BiDi listening on ws://127.0.0.1:61347
+Read port: 61352
+1700679385032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61347/devtools/browser/724a2d40-fca1-4419-a37d-065bf8affa9b
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700679414996	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700679559518	geckodriver	INFO	Listening on 127.0.0.1:61407
+1700679560028	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileYDXuS4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 19:59:20.248 firefox-bin[30733:912698] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700679560387	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700679560488	Marionette	INFO	Listening on port 61413
+WebDriver BiDi listening on ws://127.0.0.1:61408
+Read port: 61413
+1700679560623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61408/devtools/browser/b46869d6-ea73-4e88-8604-78f56fad8b63
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700679590702	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700679753375	geckodriver	INFO	Listening on 127.0.0.1:61474
+1700679753886	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilebdWLtV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:02:34.085 firefox-bin[30767:923287] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700679754234	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700679754340	Marionette	INFO	Listening on port 61480
+WebDriver BiDi listening on ws://127.0.0.1:61475
+Read port: 61480
+1700679754529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61475/devtools/browser/655fd640-2b09-4e69-8b81-051869c3ecc5
+1700679756621	Marionette	INFO	Stopped listening on port 61480
+1700679760424	Marionette	INFO	Stopped listening on port 61352
+1700679762424	Marionette	INFO	Stopped listening on port 61413
+1700679974281	geckodriver	INFO	Listening on 127.0.0.1:61525
+1700679974794	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileEROPAC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:06:14.976 firefox-bin[30809:926378] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700679975100	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700679975194	Marionette	INFO	Listening on port 61531
+WebDriver BiDi listening on ws://127.0.0.1:61526
+Read port: 61531
+1700679975385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61526/devtools/browser/bb3fc82f-b74a-4af5-9272-396e58227f91
+1700679977011	Marionette	INFO	Stopped listening on port 61531
+1700680023930	geckodriver	INFO	Listening on 127.0.0.1:61556
+1700680024443	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileKvApWn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:07:04.630 firefox-bin[30834:927258] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680024759	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680024855	Marionette	INFO	Listening on port 61562
+Read port: 61562
+WebDriver BiDi listening on ws://127.0.0.1:61557
+1700680024973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61557/devtools/browser/ad5e0e0d-7434-4d70-b0c5-e95b3ba3be8d
+1700680026636	Marionette	INFO	Stopped listening on port 61562
+1700680052152	geckodriver	INFO	Listening on 127.0.0.1:61585
+1700680052672	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofile2SDCMi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:07:32.855 firefox-bin[30860:927955] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680052980	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680053069	Marionette	INFO	Listening on port 61591
+WebDriver BiDi listening on ws://127.0.0.1:61586
+Read port: 61591
+1700680053249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61586/devtools/browser/1266db6e-09c7-4d4e-844a-78e400e71514
+1700680054670	Marionette	INFO	Stopped listening on port 61591
+1700680133801	geckodriver	INFO	Listening on 127.0.0.1:61621
+1700680134313	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilenRgfDj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:08:54.497 firefox-bin[30885:929604] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680134633	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680134736	Marionette	INFO	Listening on port 61627
+WebDriver BiDi listening on ws://127.0.0.1:61622
+Read port: 61627
+1700680134928	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61622/devtools/browser/9976c45c-7d74-4b8a-8982-c2f02aac3f59
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700680159373	Marionette	INFO	Stopped listening on port 61627
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz, line 224: Script terminated by timeout at:
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:3444
+
+1700680220196	geckodriver	INFO	Listening on 127.0.0.1:61674
+1700680220709	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofile3AegH8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:10:20.890 firefox-bin[30907:931344] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680221030	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680221137	Marionette	INFO	Listening on port 61680
+WebDriver BiDi listening on ws://127.0.0.1:61675
+Read port: 61680
+1700680221331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61675/devtools/browser/d718056d-5553-406a-8d56-6340b4d2996c
+1700680222880	Marionette	INFO	Stopped listening on port 61680
+1700680329129	geckodriver	INFO	Listening on 127.0.0.1:61705
+1700680329650	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilelD594h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:12:09.832 firefox-bin[30974:933430] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680329972	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680330077	Marionette	INFO	Listening on port 61711
+WebDriver BiDi listening on ws://127.0.0.1:61706
+Read port: 61711
+1700680330267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61706/devtools/browser/28c6373f-a23e-4f8e-853a-3b0bf0129a4a
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700680354625	Marionette	INFO	Stopped listening on port 61711
+1700680491845	geckodriver	INFO	Listening on 127.0.0.1:61766
+1700680492368	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileXUSwyv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:14:52.557 firefox-bin[31021:935638] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680492679	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680492777	Marionette	INFO	Listening on port 61772
+WebDriver BiDi listening on ws://127.0.0.1:61767
+Read port: 61772
+1700680492968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61767/devtools/browser/91163a5e-ba24-40a1-b03f-3e9534626871
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1700680512509	geckodriver	INFO	Listening on 127.0.0.1:61832
+1700680513020	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileEJGKpu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:15:13.215 firefox-bin[31038:936391] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680513355	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680513457	Marionette	INFO	Listening on port 61838
+WebDriver BiDi listening on ws://127.0.0.1:61833
+Read port: 61838
+1700680513658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61833/devtools/browser/1c5ae949-a8da-4eec-874e-8982c340f145
+1700680515158	Marionette	INFO	Stopped listening on port 61838
+1700680571006	geckodriver	INFO	Listening on 127.0.0.1:61875
+1700680571526	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilevtVkAW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:16:11.701 firefox-bin[31067:937304] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680571837	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680571932	Marionette	INFO	Listening on port 61881
+WebDriver BiDi listening on ws://127.0.0.1:61876
+Read port: 61881
+1700680572125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61876/devtools/browser/e2d312e8-2707-46c4-ac13-b77b1ff99482
+1700680573639	Marionette	INFO	Stopped listening on port 61881
+1700680583111	geckodriver	INFO	Listening on 127.0.0.1:61904
+1700680583627	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofileXikhE4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:16:23.813 firefox-bin[31090:937880] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680583948	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680584045	Marionette	INFO	Listening on port 61910
+WebDriver BiDi listening on ws://127.0.0.1:61905
+Read port: 61910
+1700680584247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:61905/devtools/browser/f0860e03-8b24-4dcd-b154-4ef249ca4074
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1700680613983	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1700680677432	geckodriver	INFO	Listening on 127.0.0.1:62003
+1700680677944	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofilePRyIIs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:17:58.145 firefox-bin[31117:941268] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680678296	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680678394	Marionette	INFO	Listening on port 62009
+WebDriver BiDi listening on ws://127.0.0.1:62004
+Read port: 62009
+1700680678531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62004/devtools/browser/152cd03e-2c36-4821-b3e3-c5f49e6bc255
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700680708639	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1700680735133	geckodriver	INFO	Listening on 127.0.0.1:62078
+1700680735649	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofile1zyAkr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:18:55.845 firefox-bin[31146:942645] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680735993	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680736098	Marionette	INFO	Listening on port 62084
+WebDriver BiDi listening on ws://127.0.0.1:62079
+Read port: 62084
+1700680736300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62079/devtools/browser/d5c65383-5f40-43ed-b64a-7a4e67ac98ee
+1700680737890	Marionette	INFO	Stopped listening on port 62084
+1700680868379	geckodriver	INFO	Listening on 127.0.0.1:62123
+1700680868903	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofile5WdASy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-22 20:21:09.083 firefox-bin[31190:945061] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700680869220	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700680869318	Marionette	INFO	Listening on port 62129
+WebDriver BiDi listening on ws://127.0.0.1:62124
+Read port: 62129
+1700680869511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:62124/devtools/browser/5a7b3d3d-b7fa-42f0-9b9c-b4576e31b660
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1700680899734	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1700680933031	Marionette	INFO	Stopped listening on port 62129
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz, line 224: Script terminated by timeout at:
+Y/P<@https://static.cdninstagram.com/rsrc.php/v3/yP/r/i51X3SwqMFg.js?_nc_x=Ij3Wp8lg5Kz:224:3444
+
+1700836099969	geckodriver	INFO	Listening on 127.0.0.1:51615
+1700836100479	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4h/mps163gj6m3b_2_j8_bfdw640000gn/T/rust_mozprofile9YxrvK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+2023-11-24 15:28:20.767 firefox-bin[43723:1538806] WARNING: Secure coding is not enabled for restorable state! Enable secure coding by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState: and returning YES.
+1700836100934	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1700836101039	Marionette	INFO	Listening on port 51621
+WebDriver BiDi listening on ws://127.0.0.1:51616
+Read port: 51621
+1700836101171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51616/devtools/browser/8947d090-22e8-401d-bb22-4ccba4a21df4
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iBvy4/y1/l/en_US/674T4vCT0De.js?_nc_x=Ij3Wp8lg5Kz, line 71: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3782: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i1tA4/y3/l/en_US/u4Y09lPXNZA.js?_nc_x=Ij3Wp8lg5Kz, line 964: Script terminated by timeout at:
+i.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3i1tA4/y3/l/en_US/u4Y09lPXNZA.js?_nc_x=Ij3Wp8lg5Kz:964:4311
+C@https://static.cdninstagram.com/rsrc.php/v3i1tA4/y3/l/en_US/u4Y09lPXNZA.js?_nc_x=Ij3Wp8lg5Kz:964:1627
+i._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i1tA4/y3/l/en_US/u4Y09lPXNZA.js?_nc_x=Ij3Wp8lg5Kz:964:4947
+d@https://static.cdninstagram.com/rsrc.php/v3i1tA4/y3/l/en_US/u4Y09lPXNZA.js?_nc_x=Ij3Wp8lg5Kz:965:158
+
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:352:17\n"
+1700836105814	Marionette	INFO	Stopped listening on port 51621

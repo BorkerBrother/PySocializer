@@ -2,39 +2,26 @@
 # imports
 from instapy import InstaPy
 from instapy import smart_run
-from instapy import set_workspace
-# set workspace folder at desired location (default is at your home folder)
-set_workspace(path=None)
 
-from user import username, password
+from user import insta_username, insta_password
 
-# InstaPy session
-session = InstaPy(username=username, password=password, want_check_browser=False, headless_browser=False)
-# Login
-session.browser.get('https://instagram.com/accounts/login')
-session.browser.implicitly_wait(5)
+""" Quickstart script for InstaPy usage """
+# imports
+from instapy import InstaPy
+from instapy import smart_run
 
-try:
-    # Finde das Cookie-Popup-Element
-    popup_buttons = session.browser.find_elements_by_xpath("//button[contains(text(),'Alle akzeptieren')]")
+# get an InstaPy session!
+# set headless_browser=True to run InstaPy in the background
+session = InstaPy(username=insta_username,
+                  password=insta_password,
+                    want_check_browser=False)
 
-    # Überprüfe, ob das Element vorhanden ist
-    if popup_buttons:
-        # Klicke auf den Cookie-Popup-Button
-        popup_buttons[0].click()
-        print("Cookie-Popup geschlossen.")
-    else:
-        print("Cookie-Popup-Button nicht gefunden.")
-except Exception as e:
-    print(f'Fehler beim Schließen des Cookie-Popups: {e}')
+with smart_run(session):
+    """ Activity flow """
+    # general settings
 
-# Führe den Login durch
-session.login()
+    session.set_dont_include(["friend1", "friend2", "friend3"])
+    session.set_dont_like(["pizza", "#store"])
 
-# Führe InstaPy-Aktionen durch (z.B., Likes nach Tags)
-session.like_by_tags(["bananabread"], amount=5)
-
-# Weitere InstaPy-Aktionen hier...
-
-# Beende die InstaPy-Sitzung
-session.end()
+    # activity
+    session.like_by_tags(["bananabread"], amount=10)
